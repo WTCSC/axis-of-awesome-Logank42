@@ -1,1 +1,3 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18896799)
 # Axis of Awesome
+This Axis of Awesome graphs the amount of pirate attacks from 2010-2024. Using a bar graph and a line graph, you can see the amount of attacks, and the large changes in recent years. To run this you either type `python3 pirates.py` or you press the run button in the top right corrner.
